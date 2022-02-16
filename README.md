@@ -1,2 +1,3 @@
 # Metodologi-Data-Science
-Haii
+Haii saya Derryl Ilfat Maulana Nurzain
+NIM 672019247
